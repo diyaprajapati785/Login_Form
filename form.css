@@ -1,0 +1,23 @@
+
+form{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    position: absolute;
+    top:150px;
+    bottom: 150px;
+    left: 500px;
+    right: 500px; 
+    background-color:darkmagenta; 
+    font-size: larger;  
+    
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/160/722/small_2x/abstract-minimal-scene-with-geometric-forms-cylinder-podium-in-blue-background-with-leaves-product-presentation-mock-up-show-cosmetic-product-podium-stage-pedestal-or-platform-3d-free-vector.jpg");
+    background-size: cover;
+}
+button{
+    background-color:brown;
+}
+
